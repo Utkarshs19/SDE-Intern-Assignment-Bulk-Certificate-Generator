@@ -1,0 +1,16 @@
+{
+  "title": "October Python workshop",
+  "certificate": {
+    "course_name": "Advanced Python Workshop",
+    "issuer": "Acme Learning Academy",
+    "issue_date": "2026-10-01",
+    "signatory_name": "Dr. Meera Iyer",
+    "signatory_title": "Program Director"
+  },
+  "recipients": [
+    { "name": "Asha Verma", "email": "asha@example.com" },
+    { "name": "Rahul Mehta", "email": "rahul@example.com", "achievement": "with Distinction" },
+    { "name": "", "email": "invalid-row@example.com" },
+    { "name": "Priya Nair" }
+  ]
+}
